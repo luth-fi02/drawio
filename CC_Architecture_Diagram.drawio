@@ -31,7 +31,7 @@
         <mxCell id="V5S_BhK3MkZrRuOPAU0v-35" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.globe_world" parent="1" vertex="1">
           <mxGeometry x="213.94" y="484" width="42.11" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rrey9prGWtQwlPM1eiKN-23" value="&lt;font color=&quot;#717171&quot;&gt;&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;Login/Authentication&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rrey9prGWtQwlPM1eiKN-23" value="&lt;font color=&quot;#717171&quot;&gt;&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;Authentication&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110.99995117187501" y="300.5" width="173" height="39" as="geometry" />
         </mxCell>
         <mxCell id="rrey9prGWtQwlPM1eiKN-24" value="&lt;b&gt;Google&amp;nbsp;&lt;/b&gt;Cloud Platform" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;" vertex="1" parent="1">
